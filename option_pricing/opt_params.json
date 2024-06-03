@@ -1,0 +1,10 @@
+{   "Type": "C",
+    "S": "torch.tensor(100.0, requires_grad=True)",
+    "K": "torch.tensor(110.0, requires_grad=True)",
+    "r": "torch.tensor(0.01, requires_grad=True)",
+    "sigma": "torch.tensor(0.05, requires_grad=True)",
+    "T": "torch.tensor(1.0, requires_grad=True)",
+    "steps": 365,
+    "trials": 1000,
+    "grid_points": 100
+}
